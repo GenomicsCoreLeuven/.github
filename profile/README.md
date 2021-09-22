@@ -9,7 +9,7 @@ Follow us on Twitter [@GC_Leuven](https://twitter.com/@GC_Leuven) or [LinkedIn](
 - 🧭 [Address](https://osm.org/go/0EozWMdOk-?relation=7691228)
 
 ---
-![logo](images/gc.png)
+![logo](profile/images/gc.png)
 
 
 <!--
