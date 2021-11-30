@@ -8,7 +8,6 @@ Follow us on Twitter [@GC_Leuven](https://twitter.com/@GC_Leuven) or [LinkedIn](
 - 📧 [Contact](mailto:info@genomicscore.be)
 - 🧭 [Address](https://osm.org/go/0EozWMdOk-?relation=7691228)
 
----
 
 
 
