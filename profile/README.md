@@ -2,7 +2,7 @@
 
 The Genomics Core Leuven is a knowledge and technology platform that facilitates access to different sequencing technologies :dna:  and shares expertise in sequence analyses and data processing :desktop_computer:. It is a collaborative effort from the [KU Leuven](https://gbiomed.kuleuven.be/nl/cme) :school: and [UZ Leuven](https://www.uzleuven.be/nl/centrum-menselijke-erfelijkheid) :hospital: for making state-of-the-art technologies, protocols and bioinformatic pipelines available for research :microscope: and diagnostics :stethoscope:.
 
-Follow us on Twitter [@GC_Leuven](https://twitter.com/@GC_Leuven) or [LinkedIn](https://www.linkedin.com/company/genomics-core-leuven/) for the latest news.
+Follow us on [LinkedIn](https://www.linkedin.com/company/genomics-core-leuven/) for the latest news.
 
 - 🌐 [www.genomicscore.be](www.genomicscore.be)
 - 📧 [Contact](mailto:info@genomicscore.be)
